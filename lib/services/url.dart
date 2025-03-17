@@ -1,0 +1,1 @@
+final String BaseUrl = "http://localhost/movie_laravel/public/api";
